@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on various Javascript Frameworks
 - 🌱 I’m currently learning Nodejs-Typescript, Postgres
+- 🥅 2021 Goals: To Learn AWS services & React.js
 - 👯 I’m looking to collaborate on javascript projects
 - 💬 Ask me about Nodejs, MongoDb, Express, Apache- Kafka, Redis, Socket.io, Influxdb
 - ⚡ Fun fact: I love to travel and watching sci-fi series / movies
@@ -17,10 +18,16 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
+
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nisarg-dewang" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nisarg-dewang&show_icons=true&hide_border=true" />
 
 </details>
 
