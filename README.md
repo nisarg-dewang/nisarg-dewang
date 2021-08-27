@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nisarg 👋
 
 - 🔭 I’m currently working on various Javascript Frameworks
 - 🌱 I’m currently learning Nodejs-Typescript, Postgres
