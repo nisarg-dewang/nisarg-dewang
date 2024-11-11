@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on various Javascript Frameworks
 - 🌱 I’m currently learning Nodejs-Typescript, Postgres
-- 🥅 2021 Goals: To Learn AWS services & React.js
+- 🥅 2023 Goals: To Learn AWS services & Go lang, Python
 - 👯 I’m looking to collaborate on javascript projects
-- 💬 Ask me about Nodejs, MongoDb, Express, Apache- Kafka, Redis, Socket.io, Influxdb
+- 💬 Ask me about Nodejs, MongoDb, Express, Apache- Kafka, Redis, Socket.io, Influxdb, Microservices, Typescript
 - ⚡ Fun fact: I love to travel and watching sci-fi series / movies
 - 📫 How to reach me: [nisargdewang94@gmail.com](mailto:nisargdewang94@gmail.com)
 
